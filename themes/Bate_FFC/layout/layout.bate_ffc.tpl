@@ -17,18 +17,24 @@
 	</div>
 	<div class="col-md-24">
 		<div class="row">
-			<div class="col-sm-18 col-md-19 col-sm-push-6 col-md-push-5">
-				[TINTUC]
+			<div class="menu_video col-md-8 ">
+				<div class=" menu col-md-24">
+					
+						[MENUDOC]
+				</div>
+				<div class=" video col-md-24">
+						[VIDEO]
+				</div>	
 			</div>
-			<div class="col-sm-6 col-md-5 col-sm-pull-18 col-md-pull-19">
-				[MENUDOC]
-				[VIDEOS]
+			<div class="noidung col-md-16">
+				[NOIDUNG]
 			</div>
 		</div>
 	</div>
-		<!--[TOP]
-		{MODULE_CONTENT}
-		[BOTTOM]-->
+
+</div>
+<div class="row">
+	[QUANGCAO]
 </div>
 <div class="row">
 	[FOOTER]
@@ -36,4 +42,3 @@
 {FILE "footer_extended.tpl"}
 {FILE "footer_only.tpl"}
 <!-- END: main -->
- 
