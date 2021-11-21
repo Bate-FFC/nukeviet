@@ -8,3 +8,24 @@
  */
 
 /* Các tùy chỉnh JS của giao diện nên để vào đây */
+
+$('.laber_trai').on('click',function(){
+    $('.dieuhuong-trai').click();
+});
+$('.laber_phai').on('click',function(){
+    $('.dieuhuong-phai').click();
+});
+// console.log($(window).height());
+if ($(window).height()<700) {
+    $('.menu_video').removeClass('col-md-8')
+    $('.menu_video').addClass('col-md-24')
+
+    $('.noidung').removeClass('col-md-16')
+    $('.noidung').addClass('col-md-24')
+
+    $('.menu').removeClass('col-md-24')
+    $('.menu').addClass('col-md-12')
+
+    $('.video').removeClass('col-md-24')
+    $('.video').addClass('col-md-11')
+}

@@ -17,19 +17,21 @@
 	</div>
 	<div class="col-md-24">
 		<div class="row">
-			<div class="col-md-8 row">
-				<div class="col-md-24">
-					[MENU_DOC]
+			<div class="menu_video col-md-8 ">
+				<div class=" menu col-md-24">
+					
+						[MENU_DOC]
 				</div>
-				<div class="col-md-24">
-					[VIDEO]
-				</div>
+				<div class=" video col-md-24">
+						[VIDEO]
+				</div>	
 			</div>
-			<div class="col-md-16">
+			<div class="noidung col-md-16">
 				[NOIDUNG]
 			</div>
 		</div>
 	</div>
+
 </div>
 <div class="row">
 	[QUANGCAO]
