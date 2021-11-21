@@ -15,9 +15,24 @@
 			</div>
 		</div>
 	</div>
-		<!--[TOP]
-		{MODULE_CONTENT}
-		[BOTTOM]-->
+	<div class="col-md-24">
+		<div class="row">
+			<div class="col-md-8 row">
+				<div class="col-md-24">
+					[MENU_DOC]
+				</div>
+				<div class="col-md-24">
+					[VIDEO]
+				</div>
+			</div>
+			<div class="col-md-16">
+				[NOIDUNG]
+			</div>
+		</div>
+	</div>
+</div>
+<div class="row">
+	[QUANGCAO]
 </div>
 <div class="row">
 	[FOOTER]
